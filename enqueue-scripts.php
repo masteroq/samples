@@ -2,7 +2,7 @@
 /**
  * Enqueue scripts
  *
- * @package Fav WordPress Theme
+ * @package ***** WordPress Theme
  * @subpackage helpers
  * @version 1.0
  */
