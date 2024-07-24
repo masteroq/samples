@@ -3,7 +3,7 @@
 /**
  * Fired during plugin activation
  *
- * @link       https://favbet.ua
+ * @link       https://******.ua
  * @since      1.0.0
  *
  * @package    Apigames
